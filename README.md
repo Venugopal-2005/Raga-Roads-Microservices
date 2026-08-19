@@ -1,2 +1,2 @@
 # Raga-Roads-Microservices
-Microservices projecect on Spring boot
+Microservices project on Spring boot
